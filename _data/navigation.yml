@@ -1,7 +1,9 @@
 main:
   - title: "Our Story"
     url: /story/
+  - title "Our Projects"
+    url: /projects/
   - title: "Our Team"
     url: /team/ 
-  - title: "About"
+  - title: "About Us"
     url: /about/
