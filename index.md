@@ -8,5 +8,8 @@ author_profile: false
 
 Welcome to the NYC Response Lab.
 
+<center>
+<img src="assets/images/Grid-Response-Logo.png">
+</center>
 
 
