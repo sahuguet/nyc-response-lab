@@ -8,7 +8,7 @@
 
 - name: NYU
   url: http://www.nyu.edu/
-  logo: /assets/images/partners/
+  logo: /assets/images/partners/nyu.png
 
 - name: United for Brownsville
   url: https://www.unitedforbrownsville.org/
@@ -18,6 +18,38 @@
   url: https://www.queenslibrary.org/
   logo: /assets/images/partners/queens_public_library_logo.png
 
+- name: "New York Academic of Sciences"
+  url: https://www.nyas.org/
+  logo: /assets/images/partners/New York Academy of Sciences logo.gif
+
 - name: Red Hook Initiative
   url: https://rhicenter.org/
   logo: /assets/images/partners/red-hook-initiave.jpg
+
+- name: "Mayor's Office of the CTO"
+  url: https://www1.nyc.gov/assets/cto/#/
+  logo: /assets/images/partners/mocto.png
+
+- name: Lowe's Innovation Lab 
+  url: https://www.lowesinnovationlabs.com/
+  logo: /assets/images/partners/Lowe_s_Labs.png 
+
+- name: Gothamist
+  url: https://gothamist.com/
+  logo: /assets/images/partners/gothamist-logo.png
+
+- name: NYC EDC
+  url: https://edc.nyc/
+  logo: /assets/images/partners/edc_pri_yellow_rgb_lb.png
+
+- name: District 38
+  url: https://council.nyc.gov/district-38/
+  logo: /assets/images/partners/Council 38 Logo.png
+
+- name: Carto
+  url: https://carto.com/
+  logo: /assets/images/partners/CARTO-logo.svg.png
+
+- name: NYC DOITT
+  url: https://www1.nyc.gov/site/doitt/index.page
+  logo: /assets/images/partners/1200px-NYCDOITT.svg.png
