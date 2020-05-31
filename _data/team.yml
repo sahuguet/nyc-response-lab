@@ -1,0 +1,55 @@
+- name: Arnaud Sahuguet
+  first: Arnaud
+  last: Sahuguet
+  linkedin: https://www.linkedin.com/in/sahuguet
+  photo: /assets/images/team/Arnaud-Sahuguet-picture.jpg
+  affiliation: Cornell Tech
+
+- name: Simon Sylvester-Chauduri
+  firt: Simon
+  last: Sylvester-Chauduri
+  linkedin: https://www.linkedin.com/in/civlabsimon
+  photo: /assets/images/team/simon.jpeg
+  affiliation: CivLab
+
+- name: Vijayta Rao Narang
+  firt: Vijayta
+  last: Rao Narang
+  linkedin: https://www.linkedin.com/in/vjrnarang/
+  photo: /assets/images/team/Vijayta_headshot.jpg
+  affiliation: CivLab
+
+- name: Dee Luo
+  first: Dee
+  last: Luo
+  linkedin: https://www.linkedin.com/in/deeluo/
+  photo: /assets/images/team/dee.jpg
+  affiliation: CivLab
+
+- name: Lindsay Clinton
+  first: Lindsay 
+  last: Clinton
+  linkedin: https://www.linkedin.com/in/lindsayclinton/
+  photo: /assets/images/team/Lindsay_Clinton_Headshot.jpg
+  affiliation: NYC EDC
+
+- name: Sander Dolder
+  first: Sander
+  last: Dolder
+  linkedin: https://www.linkedin.com/in/sdolder
+  photo: /assets/images/team/Sander.gif
+  affiliation: NYC EDC
+  
+- name: Jonathan Lane
+  first: Jonathan
+  last: Lane
+  linkedin: https://www.linkedin.com/in/jonathanlaneedc
+  photo: /assets/images/team/jonathan.jpg
+  affiliation: NYC EDC
+
+- name: Mark Malazarte
+  first: Mark
+  last: Malazarte
+  linkedin: https://www.linkedin.com/in/malazarte/
+  photo: /assets/images/team/malazarte.jpeg
+  affiliation:

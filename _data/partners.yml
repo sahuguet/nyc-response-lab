@@ -1,0 +1,23 @@
+- name: Cornell Tech
+  url: https://tech.cornell.edu/
+  logo: /assets/images/partners/Cornell Tech.png
+
+- name: Columbia University
+  url: https://www.columbia.edu/
+  logo: /assets/images/partners/columbia-univ.jpg
+
+- name: NYU
+  url: http://www.nyu.edu/
+  logo: /assets/images/partners/
+
+- name: United for Brownsville
+  url: https://www.unitedforbrownsville.org/
+  logo: /assets/images/partners/united-for-brownsville.png
+
+- name: Queens Public Library
+  url: https://www.queenslibrary.org/
+  logo: /assets/images/partners/queens_public_library_logo.png
+
+- name: Red Hook Initiative
+  url: https://rhicenter.org/
+  logo: /assets/images/partners/red-hook-initiave.jpg

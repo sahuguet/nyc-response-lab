@@ -5,4 +5,8 @@ layout: single
 author_profile: false
 ---
 
-TBD
+{% assign sorted_team = site.data.team | sort:"last","first" %}
+
+
+|:-:|--:|--:|--:|{% for member in sorted_team %}
+| ![]({{member.photo}}){: style="height: 100px; border-radius:50%;"} |  {{ member.name }} | {{ member.affiliation }} | <a href="{{member.linkedin}}"><i class="fab fa-linkedin"></i></a>|{% endfor %}

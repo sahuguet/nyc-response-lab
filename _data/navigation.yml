@@ -1,9 +1,11 @@
 main:
-  - title: "Our Story"
+  - title: "Approach"
     url: /story/
-  - title: "Our Projects"
+  - title: "Projects"
     url: /projects/
-  - title: "Our Team"
-    url: /team/ 
+  - title: "Team"
+    url: /team/
+  - title: "Partners"
+    url: /partners/
   - title: "About Us"
     url: /about/
