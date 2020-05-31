@@ -13,3 +13,8 @@ Welcome to the NYC Response Lab.
 </center>
 
 
+<br/><br/>
+
+<center>
+<a href="mailto:nyc-response-lab@googlegroups.com" class="btn btn--success btn--primary btn--large">Contact us</a>
+</center>
