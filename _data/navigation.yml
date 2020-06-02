@@ -1,8 +1,10 @@
 main:
   - title: "Approach"
-    url: /story/
+    url: /approach/
   - title: "Projects"
     url: /projects/
+  - title: "Resources"
+    url: /resources
   - title: "Team"
     url: /team/
   - title: "Partners"
