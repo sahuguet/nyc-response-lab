@@ -23,4 +23,4 @@ We work with local cummunities, business improvement districts (BIDs) and city a
 * We start from problems, not products.
 * We build, iterate, scale.
 * We have a short, medium, and long-term thinking.
-* We leverage [The Grid](https://edc.nyc/press-release/nycedc-and-civlab-launch-grid) ecosystem of 130+ orgs in urban tech 
+* We leverage [The Grid](https://edc.nyc/press-release/nycedc-and-civlab-launch-grid) ecosystem of 130+ orgs in urban tech.

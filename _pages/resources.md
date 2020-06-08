@@ -8,6 +8,6 @@ toc: true
 
 ## Re-opening strategies
 
-## Contact tracing
+## Contact tracing  
 
 ## Financial aid
