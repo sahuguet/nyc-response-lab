@@ -31,3 +31,9 @@ Home | About | Approach | Projects | Resources | Team | Partners
 
 # Design stuff
 [ ] change fonts; see https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/ .
+[X] fix issue with feature_row images (see .archive__item-teaser in CSS)
+
+# File bugs/issues at https://github.com/mmistakes/minimal-mistakes/issues 
+[ ] button for feature_row should bottom-aligned by default
+[ ] header for feature_row should be aligned (see fix with .archive__item-teaser)
+[ ] images in a gallery should have their own class ==> easier to modify
