@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-{% assign sorted_team = site.data.team | sort:"last","first" %}
+{% assign sorted_team = site.data.team | sort:"first", "last" %}
 
 
 |:-:|--:|--:|--:|{% for member in sorted_team %}

@@ -1,55 +1,67 @@
 - name: Cornell Tech
   url: https://tech.cornell.edu/
-  logo: /assets/images/partners/Cornell Tech.png
+  image_path: /assets/images/partners/Cornell Tech.png
 
 - name: Columbia University
   url: https://www.columbia.edu/
-  logo: /assets/images/partners/columbia-univ.jpg
+  image_path: /assets/images/partners/columbia-univ.jpg
 
-- name: NYU
-  url: http://www.nyu.edu/
-  logo: /assets/images/partners/nyu.png
+- name: NYU Tandon
+  url: https://engineering.nyu.edu/
+  image_path: /assets/images/partners/nyu.png
 
 - name: United for Brownsville
   url: https://www.unitedforbrownsville.org/
-  logo: /assets/images/partners/united-for-brownsville.png
+  image_path: /assets/images/partners/united-for-brownsville.png
 
 - name: Queens Public Library
   url: https://www.queenslibrary.org/
-  logo: /assets/images/partners/queens_public_library_logo.png
+  image_path: /assets/images/partners/queens_public_library_image_path.png
 
 - name: "New York Academic of Sciences"
   url: https://www.nyas.org/
-  logo: /assets/images/partners/New York Academy of Sciences logo.gif
+  image_path: /assets/images/partners/New York Academy of Sciences image_path.gif
 
 - name: Red Hook Initiative
   url: https://rhicenter.org/
-  logo: /assets/images/partners/red-hook-initiave.jpg
+  image_path: /assets/images/partners/red-hook-initiave.jpg
 
 - name: "Mayor's Office of the CTO"
   url: https://www1.nyc.gov/assets/cto/#/
-  logo: /assets/images/partners/mocto.png
+  image_path: /assets/images/partners/mocto.png
 
 - name: Lowe's Innovation Lab 
   url: https://www.lowesinnovationlabs.com/
-  logo: /assets/images/partners/Lowe_s_Labs.png 
+  image_path: /assets/images/partners/Lowe_s_Labs.png 
 
 - name: Gothamist
   url: https://gothamist.com/
-  logo: /assets/images/partners/gothamist-logo.png
+  image_path: /assets/images/partners/gothamist-image_path.png
 
 - name: NYC EDC
   url: https://edc.nyc/
-  logo: /assets/images/partners/edc_pri_yellow_rgb_lb.png
+  image_path: /assets/images/partners/edc_pri_yellow_rgb_lb.png
 
 - name: District 38
   url: https://council.nyc.gov/district-38/
-  logo: /assets/images/partners/Council 38 Logo.png
+  image_path: /assets/images/partners/Council 38 image_path.png
 
 - name: Carto
   url: https://carto.com/
-  logo: /assets/images/partners/CARTO-logo.svg.png
+  image_path: /assets/images/partners/CARTO-image_path.svg.png
 
 - name: NYC DOITT
   url: https://www1.nyc.gov/site/doitt/index.page
-  logo: /assets/images/partners/1200px-NYCDOITT.svg.png
+  image_path: /assets/images/partners/1200px-NYCDOITT.svg.png
+
+- name: NYC DOT
+  url: https://www1.nyc.gov/html/dot/html/home/home.shtml
+  image_path: /assets/images/partners/NYC_DOT.svg
+
+- name: Town+Gown
+  url: https://www1.nyc.gov/site/ddc/about/town-gown.page
+  image_path: /assets/images/partners/town_gown.png
+
+- name: Public Sentiment
+  url: https://www.publicsentiment.org/
+  image_path: /assets/images/partners/public-sentiment_image_path.png

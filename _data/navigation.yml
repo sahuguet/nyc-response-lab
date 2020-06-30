@@ -1,13 +1,15 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Approach"
     url: /approach/
   - title: "Projects"
     url: /projects/
   - title: "Resources"
     url: /resources
-  - title: "Team"
-    url: /team/
-  - title: "Partners"
-    url: /partners/
-  - title: "About Us"
-    url: /about/
+
+#    - title: "Team"
+#    url: /team/
+#  - title: "Partners"
+#    url: /partners/
+  

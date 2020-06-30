@@ -1,0 +1,33 @@
+
+
+# New navigation
+Home | About | Approach | Projects | Resources | Team | Partners
+
+# Homepage
+[X] Adding mission statement, but no contnet provided.
+[ ] Changing fonts.
+[ ] Changing button color; waiting for website palette to be approved.
+[X] Removing Welcome text
+[X] Adding partner list
+[X] Fixing NYU to NYU Tandon
+[X] Adding DOT
+[X] Adding Public Sentiment
+[X] Adding Town+Gown
+[X] Adding partners to homepage
+
+# About page
+[X] adding new content, including team list
+[X] sorted by first name
+[X] Fix CIV:Lab
+
+# Approach page
+[X] New content
+[X] Adding figure for process
+
+# Project page
+[ ] Tiles for project.
+[X] Removing stale Projects
+[X] Adding new projects: PPE Marketplace and Brownsville.
+
+# Design stuff
+[ ] change fonts; see https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/ .

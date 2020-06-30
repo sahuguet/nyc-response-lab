@@ -5,22 +5,10 @@ layout: single
 author_profile: false
 ---
 
-In response to the COVID-19 pandemic, New Yorkers do what they do best, **respond**.
+The “NYC Response Lab” at Cornell Tech is a joint initiative with CIV:LAB and the NYCEDC to identify community-level COVID-19 related problems and deploy internally-created tech solutions to address them and help New York City people/communities, businesses  and agencies recover from the COVID-19 crisis. We will improve access (to health, mobility, and other resources) and respond in underserved communities in New York using simple and unconventional tools.
 
-The "NYC Response Lab" creates innovative solutions to help New York City people/communities, businesses  and agencies recover from the COVID-19 crisis and be prepared for a second potential wave. 
+# Team
+{% assign sorted_team = site.data.team | sort:"first", "last" %}
 
-# Who we work with
-We work with local cummunities, business improvement districts (BIDs) and city agencies.
-
-# What we do
-* We source problems.
-* We co-create, architect, build and deploy the solution.
-* We bring external partners if needed.
-* We hand-off the project.
-
-# Why we are different
-* We start bottom-up and not top-down.
-* We start from problems, not products.
-* We build, iterate, scale.
-* We have a short, medium, and long-term thinking.
-* We leverage [The Grid](https://edc.nyc/press-release/nycedc-and-civlab-launch-grid) ecosystem of 130+ orgs in urban tech.
+|:-:|--:|--:|--:|{% for member in sorted_team %}
+| ![]({{member.photo}}){: style="height: 100px; border-radius:50%;"} |  {{ member.name }} | {{ member.affiliation }} | <a href="{{member.linkedin}}"><i class="fab fa-linkedin"></i></a>|{% endfor %}
