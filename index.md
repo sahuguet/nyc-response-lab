@@ -76,7 +76,7 @@ gallery:
 
 ---
 
-Our mission is to ...
+The NYC Response Lab is a hub for collaborative community solution creation and deployment in __response__ to COVID-19. Built by New Yorkers for New Yorkers. 
 
 <center>
 <img src="assets/images/Grid-Response-Logo.png">
